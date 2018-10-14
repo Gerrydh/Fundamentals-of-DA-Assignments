@@ -9,12 +9,12 @@ This repository is for my assignments in Fundamentals of Data Analysis
 
    1. **By Thursday the 18th of October:** Plan a preliminary structure
    
-    Plan the assignment and organise the information
+   Plan the assignment and organise the information
     
 
    1. **By Friday the 19th of October:** Start the research
    
-    Keep a document detailing all reading material, including page numbers, links for referencing later
+   Keep a document detailing all reading material, including page numbers, links for referencing later
 
 
    1. **By Monday the 22nd of October:** First Draft
