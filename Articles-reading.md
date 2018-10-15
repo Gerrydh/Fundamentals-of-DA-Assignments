@@ -16,3 +16,5 @@ https://vknight.org/unpeudemath/mathematics/2016/10/29/anscombes-quartet-variabi
 https://arxiv.org/pdf/1701.08290.pdf
 
 https://s3.amazonaws.com/assets.datacamp.com/production/course_2280/slides/ch1_slides.pdf
+
+https://www.coursera.org/lecture/dataviz-design/case-study-anscombes-quartet-TT0nk
